@@ -15,8 +15,12 @@ public class Sql20MenWearDaoTest {
 
     @BeforeClass
     public static void setUp() throws Exception {
-        String connectionString = "jdbc:postgresql://localhost:5432/cynix_test_database";
-        Sql2o sql2o = new Sql2o(connectionString, "linus", "mariano@9496");
+        String connectionString = "jdbc:postgresql://ec2-54-175-117-212.compute-1.amazonaws.com:5432/d7dmvoatoj65";
+        Sql2o sql2o = new Sql2o(connectionString, "dymqwdieiyxasa", "9adaee6831da8fd00373e7c3af8dc3be71ade77364aef2fab38b92bab08f3e21");
+
+//
+//        String connectionString = "jdbc:postgresql://localhost:5432/cynix_test_database";
+//        Sql2o sql2o = new Sql2o(connectionString, "linus", "mariano@9496");
         System.out.println("Connection Initialized");
         menWearDao=new Sql20MenWearDao(sql2o);
         conn=sql2o.open();
