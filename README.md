@@ -68,23 +68,23 @@ Clone the App to your local storage and launch it using the inteliJ IDEA.
   SHOPS
  * New Shop 
  
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/newShop.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/shop/newShop.png)
  > https://cynix-shop.herokuapp.com/shops/new (Method~Post)
 * Fetch All Shops
  
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/allShops.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/shop/allShops.png)
  > https://cynix-shop.herokuapp.com/shops (Method~get)
 * Fetch Shop By Id
 
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/shopById.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/shop/shopById.png)
 > https://cynix-shop.herokuapp.com/shop/:id (Method~get)
 * Remove Shop By Id
 
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/removeShopById.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/shop/removeShopById.png)
 > https://cynix-shop.herokuapp.com/shop/:id/remove (Method~Post)
 * Clear The Database
 
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/clearShop.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/shop/clearShop.png)
 > https://cynix-shop.herokuapp.com/shop/clear (Method~Post)
 
 FASHIONS
@@ -92,23 +92,23 @@ FASHIONS
 
 * New Wear
 
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/newWear.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/fashions/newWear.png)
 > https://cynix-shop.herokuapp.com/fashion/men/new (Method~Post)
 * Fetch All Men's Wear
 
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/getAll.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/fashions/getAll.png)
 > https://cynix-shop.herokuapp.com/fashion/men (Method~get)
 * Fetch Men's Wear By Id
 
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/getById.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/fashions/getById.png)
 > https://cynix-shop.herokuapp.com/fashion/men/:id (Method~get)
 * Remove Men's Wear By Id
 
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/removeById.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/fashions/removeById.png)
 > https://cynix-shop.herokuapp.com/fashion/men/:id/remove (Method~Post)
 * Clear The Database
 
- ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/clearFashions.png)
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/fashions/clearFashions.png)
 > https://cynix-shop.herokuapp.com/fashion/men/clear (Method~Post)
  
 ## Reach me
