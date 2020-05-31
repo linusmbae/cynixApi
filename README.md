@@ -113,8 +113,3 @@ FASHIONS
  
 ## Reach me
 [Email](linusmutugi5178@gmail.com) 
-
-# CopyRight & License
-MIT License
-
-#### Cynix-Shop-Api
