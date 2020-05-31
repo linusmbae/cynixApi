@@ -3,6 +3,8 @@
 # Author Name
 Mbae Linus Mutugi
 
+![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/images/me/me.jpg)
+
 # Project Setup
 ### Database Setup
 Click [here](https://www.postgresql.org/download/) to install postgreSQL if you don't have one.
