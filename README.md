@@ -1,5 +1,5 @@
 # Project Name
-####[cynixApi](https://github.com/linusmbae/cynixApi.git)
+#### [cynixApi](https://github.com/linusmbae/cynixApi.git)
 # Author Name
 Mbae Linus Mutugi
 
