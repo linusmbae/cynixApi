@@ -113,3 +113,5 @@ FASHIONS
  
 ## Reach me
 [Email](linusmutugi5178@gmail.com) 
+
+[MIT Licence](https://github.com/linusmbae/cynixApi/blob/master/LICENSE)
