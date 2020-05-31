@@ -67,28 +67,48 @@ Clone the App to your local storage and launch it using the inteliJ IDEA.
  
   SHOPS
  * New Shop 
+ 
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/newShop.png)
  > https://cynix-shop.herokuapp.com/shops/new (Method~Post)
 * Fetch All Shops
+ 
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/allShops.png)
  > https://cynix-shop.herokuapp.com/shops (Method~get)
 * Fetch Shop By Id
+
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/shopById.png)
 > https://cynix-shop.herokuapp.com/shop/:id (Method~get)
 * Remove Shop By Id
+
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/removeShopById.png)
 > https://cynix-shop.herokuapp.com/shop/:id/remove (Method~Post)
 * Clear The Database
+
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/shop/clearShop.png)
 > https://cynix-shop.herokuapp.com/shop/clear (Method~Post)
 
 FASHIONS
 * MEN'S WEAR
 
 * New Wear
+
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/newWear.png)
 > https://cynix-shop.herokuapp.com/fashion/men/new (Method~Post)
 * Fetch All Men's Wear
+
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/getAll.png)
 > https://cynix-shop.herokuapp.com/fashion/men (Method~get)
 * Fetch Men's Wear By Id
+
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/getById.png)
 > https://cynix-shop.herokuapp.com/fashion/men/:id (Method~get)
 * Remove Men's Wear By Id
+
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/removeById.png)
 > https://cynix-shop.herokuapp.com/fashion/men/:id/remove (Method~Post)
 * Clear The Database
+
+ ![alt text](https://github.com/linusmbae/cynixApi/blob/master/src/main/resources/public/fashions/clearFashions.png)
 > https://cynix-shop.herokuapp.com/fashion/men/clear (Method~Post)
  
 ## Reach me
